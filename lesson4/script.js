@@ -140,12 +140,30 @@ let users = [
 ];
 // за допомоги циклу вивести:
 // - користувачів зі статусом true
+for (const user of users) {
+    if(user['status']) {
+        for (const userKey in user) {
+           document.write(`<div>${user[userKey]}</div>`)
+        }
+        document.write('\n----------------')
+    }
+}
 // - користувачів зі статусом false
+for (const user of users) {
+    if(!user['status']) {
+        for (const userKey in user) {
+            document.write(`<div>${user[userKey]}</div>`)
+        }
+        document.write('\n~~~~~~~~~~~~~~~~~~')
+    }
+}
 // - користувачів які старші за 30 років
 for (const user of users) {
-    for (const userKey in user) {
-        if(user['status'])document.write(`${user[userKey]}<br>--------<br>`)
+    if(user['age']>30) {
+        for (const userKey in user) {
+            document.write(`<div>${user[userKey]}</div>`)
+        }
+        document.write('\n__________________')
     }
-
 
 }
