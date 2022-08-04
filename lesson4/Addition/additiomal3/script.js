@@ -104,15 +104,15 @@
 
 // 8. Створити масив з будь якими значеннями (стрінги, числа, і тд...). пройтись по ньому,
 // і якщо елемент є числом - додати його в інший масив.
-// let array2 = [];
-// let array = [true, 56, false,124125,215,6346,{},'gr'];
-//  for (let i = 0; i < array.length; i++) {
-//      if (typeof array[i] === "number") {
-//          array2.push(array[i]);
-//      }
-//  }
-// console.log(array);
-// console.log(array2);
+ let array2 = [];
+ let array = [true, 56, false,124125,215,6346,{},'gr'];
+for (const arrayElement of array) {
+    if (typeof arrayElement === "number") {
+        array2.push(arrayElement);
+    }
+}
+ console.log(array);
+ console.log(array2);
 
 
 //
@@ -219,3 +219,12 @@ for (let element of arr) {
     slowo = slowo + element;
 }
 console.log(slowo);
+
+
+let b=[1,2,3];
+
+let k=0;
+while(k<b.length){
+    console.log(b);
+    k++;
+}

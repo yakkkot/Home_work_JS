@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0535619b-77c6-402b-b20f-d5cdb0d86c6d" name="Changes" comment="task 4">
+      <change afterPath="$PROJECT_DIR$/lesson5/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson5/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson4/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson4/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson4/Addition/additiomal3/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson4/Addition/additiomal3/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson4/Addition/additional1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson4/Addition/additional1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson4/Addition/additional1/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson4/Addition/additional1/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,15 +36,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/konan/OneDrive/Desktop/Home_work_JS&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/konan/OneDrive/Desktop/Home_work_JS",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -52,7 +57,16 @@
       <workItem from="1659395618223" duration="730000" />
       <workItem from="1659462649653" duration="15644000" />
       <workItem from="1659481941816" duration="182000" />
-      <workItem from="1659499203256" duration="649000" />
+      <workItem from="1659499203256" duration="777000" />
+      <workItem from="1659531024164" duration="35000" />
+      <workItem from="1659533872297" duration="3358000" />
+      <workItem from="1659556747709" duration="9000" />
+      <workItem from="1659559300721" duration="835000" />
+      <workItem from="1659560281638" duration="1186000" />
+      <workItem from="1659567458613" duration="197000" />
+      <workItem from="1659567671076" duration="140000" />
+      <workItem from="1659624532240" duration="478000" />
+      <workItem from="1659635819867" duration="3109000" />
     </task>
     <task id="LOCAL-00001" summary="task 4">
       <created>1659478297762</created>
@@ -61,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659478297762</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="task 4">
+      <created>1659499981536</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1659499981536</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

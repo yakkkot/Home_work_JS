@@ -285,9 +285,6 @@ let books=[
 //     if(book.name.length===max_name)console.log(book);
 // }
 
-
-
-
 // - знайти книжку/ки які писали 2 автори
 // for (const book of books) {
 //     if(book.authors.length===2) console.log(book);
