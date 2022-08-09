@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0535619b-77c6-402b-b20f-d5cdb0d86c6d" name="Changes" comment="task 4">
-      <change afterPath="$PROJECT_DIR$/lesson5/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson5/script.js" afterDir="false" />
+    <list default="true" id="0535619b-77c6-402b-b20f-d5cdb0d86c6d" name="Changes" comment="task 5">
+      <change afterPath="$PROJECT_DIR$/lesson5/addition/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson5/addition/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson6/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson6/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson4/Addition/additiomal3/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson4/Addition/additiomal3/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson4/Addition/additional1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson4/Addition/additional1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson4/Addition/additional1/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson4/Addition/additional1/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -43,7 +42,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "C:/Users/konan/OneDrive/Desktop/Home_work_JS",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "settings.editor.selected.configurable": "inlay.hints"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -66,7 +65,14 @@
       <workItem from="1659567458613" duration="197000" />
       <workItem from="1659567671076" duration="140000" />
       <workItem from="1659624532240" duration="478000" />
-      <workItem from="1659635819867" duration="3109000" />
+      <workItem from="1659635819867" duration="5412000" />
+      <workItem from="1659643216585" duration="2161000" />
+      <workItem from="1659648076699" duration="5282000" />
+      <workItem from="1659665212130" duration="598000" />
+      <workItem from="1659709701610" duration="800000" />
+      <workItem from="1659723761175" duration="17000" />
+      <workItem from="1659978980094" duration="1092000" />
+      <workItem from="1660069027337" duration="7078000" />
     </task>
     <task id="LOCAL-00001" summary="task 4">
       <created>1659478297762</created>
@@ -82,7 +88,21 @@
       <option name="project" value="LOCAL" />
       <updated>1659499981536</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="task 5">
+      <created>1659638967604</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1659638967604</updated>
+    </task>
+    <task id="LOCAL-00004" summary="task 5">
+      <created>1659638977358</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1659638977358</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,6 +121,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="task 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="task 4" />
+    <MESSAGE value="task 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="task 5" />
   </component>
 </project>
