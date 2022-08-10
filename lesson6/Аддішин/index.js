@@ -233,11 +233,11 @@ console.log(count('Астрономия это наука о небесных о
 // document.writeln(cutString(str, 5)) // 'Сила тяжести приложена к центру'
 let cutString2 = (str, n) =>{
     let splited=str.split(' ');
-    let b=str.split(' ').slice(0,splited.length-n).join(' ')
+    let b=str.split(' ').slice(0,n-splited.length).join(' ')
     console.log(b)
 
 }
-cutString2('Сила тяжести приложена к центру масс тела', 2);// 'Сила тяжести приложена к центру'
+cutString2('Сила тяжести приложена к центру масс тела', 5);// 'Сила тяжести приложена к центру'
 
 
 //
@@ -255,4 +255,4 @@ let books=[
 // - знайти книжку/ки які писав 1 автор] це ми робили у lesson4 додаткові
 
 // - вісортувати книжки по кількості сторінок по зростанню
-console.log(books.sort((book1, book2) => book1 - book2));
+console.log(books.sort((book1, book2) => book1.pages.length - book2.pages.length));
