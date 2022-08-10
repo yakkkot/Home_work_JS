@@ -64,7 +64,7 @@ let coursesAndDurationArray = [
 ];
 
 // -- відсортувати його за спаданням за monthDuration
-coursesAndDurationArray.sort((item1, item2) => item1.monthDuration - item2.monthDuration)
+coursesAndDurationArray.sort((item1, item2) => item2.monthDuration - item1.monthDuration)
 console.log(coursesAndDurationArray);
 
 
