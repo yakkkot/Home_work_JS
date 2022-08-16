@@ -52,7 +52,7 @@ let Clients = [
 ]
 
 // 5. Взяти масив (Client [] з попереднього завдання).Відсортувати його по кількості товарів в полі order по зростанню. (sort)
-Clients.sort(({order: order1}, {order: order2}) => order2.length - order1.length)
+Clients.sort(({order: order1}, {order: order2}) => order1.length - order2.length)
 console.log(Clients);
 
 

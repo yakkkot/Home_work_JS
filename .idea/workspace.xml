@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0535619b-77c6-402b-b20f-d5cdb0d86c6d" name="Changes" comment="/">
-      <change afterPath="$PROJECT_DIR$/lesson7/адішин/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson7/адішин/index.js" afterDir="false" />
+    <list default="true" id="0535619b-77c6-402b-b20f-d5cdb0d86c6d" name="Changes" comment="Addition">
+      <change afterPath="$PROJECT_DIR$/lesson7/сlosures/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson7/сlosures/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson7/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson7/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +84,7 @@
       <workItem from="1660159934199" duration="6883000" />
       <workItem from="1660170146116" duration="742000" />
       <workItem from="1660180243232" duration="7000" />
-      <workItem from="1660671880971" duration="4923000" />
+      <workItem from="1660671880971" duration="5953000" />
     </task>
     <task id="LOCAL-00001" summary="task 4">
       <created>1659478297762</created>
@@ -155,7 +156,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660675206107</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Addition">
+      <created>1660677136847</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1660677136847</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -180,6 +188,7 @@
     <MESSAGE value="адішин fix" />
     <MESSAGE value="lesson7" />
     <MESSAGE value="/" />
-    <option name="LAST_COMMIT_MESSAGE" value="/" />
+    <MESSAGE value="Addition" />
+    <option name="LAST_COMMIT_MESSAGE" value="Addition" />
   </component>
 </project>
