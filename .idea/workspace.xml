@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0535619b-77c6-402b-b20f-d5cdb0d86c6d" name="Changes" comment="lesson7">
-      <change beforePath="$PROJECT_DIR$/lesson5/addition/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson5/addition/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson5/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson5/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson6/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson6/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson6/Аддішин/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson6/Аддішин/index.js" afterDir="false" />
+    <list default="true" id="0535619b-77c6-402b-b20f-d5cdb0d86c6d" name="Changes" comment="/">
+      <change afterPath="$PROJECT_DIR$/lesson7/адішин/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson7/адішин/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager" show_ignored="true" />
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -83,7 +83,7 @@
       <workItem from="1660159934199" duration="6883000" />
       <workItem from="1660170146116" duration="742000" />
       <workItem from="1660180243232" duration="7000" />
-      <workItem from="1660671880971" duration="3243000" />
+      <workItem from="1660671880971" duration="4923000" />
     </task>
     <task id="LOCAL-00001" summary="task 4">
       <created>1659478297762</created>
@@ -148,7 +148,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660675144178</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="/">
+      <created>1660675206107</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1660675206107</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -172,6 +179,7 @@
     <MESSAGE value="адішин" />
     <MESSAGE value="адішин fix" />
     <MESSAGE value="lesson7" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson7" />
+    <MESSAGE value="/" />
+    <option name="LAST_COMMIT_MESSAGE" value="/" />
   </component>
 </project>
