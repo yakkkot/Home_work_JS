@@ -115,11 +115,9 @@ class Car {
     }
 
     info() {
-        console.log(`model=${this.model}\n` +
-            `producer=${this.producer}\n` +
-            `graduation_year=${this.graduation_year}\n` +
-            `max_speed=${this.max_speed}\n` +
-            `engine_volume=${this.engine_volume}`)
+        for (const argument in this) {
+            if(typeof this[argument]!=='function') console.log(`${argument} - ${JSON.stringify(this[argument])}`)
+        }
     }
     increaseMaxSpeed = (newSpeed )=> this.max_speed += newSpeed;
     changeYear = (newValue )=> this.graduation_year = newValue;
@@ -132,7 +130,7 @@ car.info();
 car.increaseMaxSpeed(50);
 car.changeYear(2005);
 car.addDriver({name: 'Vasya', pravo_jazdy: false});
-console.log(car);
+//car.info();
 
 
 // -створити класс/функцію конструктор попелюшка з полями ім'я, вік, розмір ноги. Створити масив з 10 попелюшок.
