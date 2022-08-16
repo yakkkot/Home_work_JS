@@ -20,6 +20,9 @@ const max=(a,b,c)=>{
 console.log('max=',max(1,2,3));
 
 // - створити функцію яка повертає найбільше число з масиву
+
+
+
 const max_value=(arr)=>Math.max(...arr);
 console.log('max value from array is',max_value([1,2,3,4,5,6,7,8,9,10]))
 
@@ -65,9 +68,9 @@ funFilter(1,10);
 
 const change=(arr,i)=>{
     if(i>=0&&i<arr.length){
-    let temb=arr[i+1];
+    let temp=arr[i+1];
     arr[i+1]=arr[i];
-    arr[i]=temb;
+    arr[i]=temp;
     }
     console.log(arr);
 }

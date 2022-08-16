@@ -114,7 +114,7 @@ let validator = (email)=>{
     // let valid = email.trim().toLowerCase();
     // if (valid[0]=== '@' || valid[valid.length-1] === '@') {
     //     console.log('Wrong Address');
-    // }else if ( valid.split('@').length !== 2){
+    // }else if ( valid.split('@').length === 2){
     //     console.log('Wrong Address');
     // }else if ((email.indexOf('.') - email.indexOf('@')) < 3) {
     //     console.log('Wrong Address');
@@ -124,11 +124,11 @@ let validator = (email)=>{
     // }
 
     //Варіант 2
-    // let splited=email.split('@');
-    // if(email.includes('@')&&splited.length===2&&!(splited[1][0].includes('.')||splited[1][1].includes('.'))) {
-    //     console.log('Valid')
-    // }
-    // else console.log('Ne valid')
+    let splited=email.split('@');
+    if(email.includes('@')&&splited.length===2&&splited[0].length>0&&splited[1].length>0&&!(splited[1][0].includes('.')||splited[1][1].includes('.'))) {
+        console.log('Valid')
+    }
+    else console.log('Ne valid')
 }
 validator('someemail@gmail.com')
 
@@ -249,6 +249,20 @@ let books=[
     {name: 'War and peace',pages:1550,authors:['Tolstoj','jakubowicz'],genres:['War','Peace']},
 ]
 //[ -знайти наібльшу книжку.
+
+Array.prototype.find(()=>{
+    let max=books[0]
+    books.find((item)=>max=item.pages>max.pages?item:max)
+    console.log(max)
+    return 0;
+})
+books.find();
+let max=books[0]
+books.find((item)=>max=item.pages>max.pages?item:max)
+console.log(max)
+console.log(books)
+
+
 // - знайти книжку/ки з найбільшою кількістю жанрів
 // - знайти книжку/ки з найдовшою назвою
 // - знайти книжку/ки які писали 2 автори

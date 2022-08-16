@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0535619b-77c6-402b-b20f-d5cdb0d86c6d" name="Changes" comment="адішин fix">
-      <change afterPath="$PROJECT_DIR$/lesson7/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson7/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="0535619b-77c6-402b-b20f-d5cdb0d86c6d" name="Changes" comment="lesson7">
       <change beforePath="$PROJECT_DIR$/lesson5/addition/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson5/addition/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lesson5/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson5/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lesson6/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson6/script.js" afterDir="false" />
@@ -86,7 +83,7 @@
       <workItem from="1660159934199" duration="6883000" />
       <workItem from="1660170146116" duration="742000" />
       <workItem from="1660180243232" duration="7000" />
-      <workItem from="1660671880971" duration="2941000" />
+      <workItem from="1660671880971" duration="3243000" />
     </task>
     <task id="LOCAL-00001" summary="task 4">
       <created>1659478297762</created>
@@ -144,7 +141,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660132117794</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="lesson7">
+      <created>1660675144178</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1660675144178</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -167,6 +171,7 @@
     <MESSAGE value="task 6" />
     <MESSAGE value="адішин" />
     <MESSAGE value="адішин fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="адішин fix" />
+    <MESSAGE value="lesson7" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson7" />
   </component>
 </project>

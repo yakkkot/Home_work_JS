@@ -296,7 +296,7 @@ console.log(deckOfCards.filter((item) => item.color === 'red'));
 // - всі буби
 console.log(deckOfCards.filter(item => item.cardSuit === 'diamond'));
 // - всі трефи від 9 та більше
-console.log(deckOfCards.filter(item => item.cardSuit === 'clubs' && !(item.value <= 9)));
+console.log(deckOfCards.filter(item => item.cardSuit === 'clubs' && !(item.value < 9)));
 
 
 // Додатково по reduce
