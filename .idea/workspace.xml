@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0535619b-77c6-402b-b20f-d5cdb0d86c6d" name="Changes" comment="адішин fix">
+      <change afterPath="$PROJECT_DIR$/lesson7/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson7/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson5/addition/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson5/addition/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson5/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson5/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson6/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson6/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lesson6/Аддішин/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson6/Аддішин/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,16 +37,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/konan/OneDrive/Desktop/Home_work_JS&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/konan/OneDrive/Desktop/My Web/Home_work_JS",
+    "settings.editor.selected.configurable": "inlay.hints"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -73,7 +78,15 @@
       <workItem from="1660083062747" duration="3573000" />
       <workItem from="1660093138746" duration="438000" />
       <workItem from="1660124312226" duration="1881000" />
-      <workItem from="1660132034991" duration="71000" />
+      <workItem from="1660132034991" duration="90000" />
+      <workItem from="1660132418126" duration="671000" />
+      <workItem from="1660138846687" duration="1763000" />
+      <workItem from="1660150725280" duration="4260000" />
+      <workItem from="1660157821434" duration="1608000" />
+      <workItem from="1660159934199" duration="6883000" />
+      <workItem from="1660170146116" duration="742000" />
+      <workItem from="1660180243232" duration="7000" />
+      <workItem from="1660671880971" duration="2941000" />
     </task>
     <task id="LOCAL-00001" summary="task 4">
       <created>1659478297762</created>
@@ -124,7 +137,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660125515188</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="адішин fix">
+      <created>1660132117794</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1660132117794</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
