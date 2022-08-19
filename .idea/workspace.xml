@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0535619b-77c6-402b-b20f-d5cdb0d86c6d" name="Changes" comment="lesson8">
+    <list default="true" id="0535619b-77c6-402b-b20f-d5cdb0d86c6d" name="Changes" comment="lesson9 addition">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,6 +42,11 @@
     "settings.editor.selected.configurable": "inlay.hints"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\konan\OneDrive\Desktop\My Web\Home_work_JS\lesson9" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -83,6 +88,7 @@
       <workItem from="1660180243232" duration="7000" />
       <workItem from="1660671880971" duration="15436000" />
       <workItem from="1660689578558" duration="6210000" />
+      <workItem from="1660923509246" duration="435000" />
     </task>
     <task id="LOCAL-00001" summary="task 4">
       <created>1659478297762</created>
@@ -189,7 +195,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660693485014</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="lesson9 addition">
+      <created>1660923672562</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1660923672562</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -218,6 +231,7 @@
     <MESSAGE value="123" />
     <MESSAGE value="closures" />
     <MESSAGE value="lesson8" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson8" />
+    <MESSAGE value="lesson9 addition" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson9 addition" />
   </component>
 </project>
