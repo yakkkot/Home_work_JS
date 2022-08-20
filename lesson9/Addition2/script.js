@@ -246,7 +246,6 @@ function newUserBlock(item,box,container){
         }else {
             let newbox=document.createElement('div');
             newUserBlock(item[itemKey],newbox,box);
-            box.appendChild(newbox);
         }
     }
     container.appendChild(box);
